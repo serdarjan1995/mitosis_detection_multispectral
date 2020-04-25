@@ -5,6 +5,7 @@ My final thesis
 
 Project coded in Python 3.6.4
 
+Go to `RUN` directory.
 Run following for installing necessary packages.
 ```
 pip install -r requirements.txt
