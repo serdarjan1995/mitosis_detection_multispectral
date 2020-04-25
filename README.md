@@ -6,16 +6,19 @@ My final thesis
 Project coded in Python 3.6.4
 
 Run following for installing necessary packages.
+
 `pip install -r requirements.txt`
 
 After installing packages simply run python script __mitosis_gui.py__
+
 `python3 mitosis_gui.py`
 
 _____________________________________________________________________
+
 For training new dataset with CNN model:
-```model = MITOSIS_CNN(IMG_SIZE, weights=weights_path, channels=10)
+`model = MITOSIS_CNN(IMG_SIZE, weights=weights_path, channels=10)
 model.generate_train_data(MITOSIS_PATH,NONMITOSIS_PATH)
-model.train_model(epochs=30,min_delta=0.01,cross_validation=0.2)```
+model.train_model(epochs=30,min_delta=0.01,cross_validation=0.2)`
 
 #######################
 Explanation of files in 'Code2 directory:
