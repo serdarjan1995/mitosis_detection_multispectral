@@ -1,4 +1,4 @@
-# mitosis_detection_multispectral
+# Mitosis Detection in Multispectral Histopathological Images with Deep Learning
 My final thesis
 
 
